@@ -5,8 +5,8 @@
 #include <MPU6050.h>
 
 // Replace with your network credentials
-const char* ssid = "LB_ADSL_NYZQ";
-const char* password = "Xvv2p96RZYsWaSEUmd";
+const char* ssid = "SSID NAME";
+const char* password = "SSID PASSWORD";
 
 #define LED 23
 
